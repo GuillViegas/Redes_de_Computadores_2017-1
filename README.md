@@ -1,1 +1,3 @@
-# Redes_de_Computadores_2017-1
+Universidade Federal de Minas Gerais
+Departamento de Ciências da Computação
+Redes de Computadores 2017/1
